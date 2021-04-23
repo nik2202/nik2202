@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @niklashauschel
+- 👀 I’m interested in soccer, biking, skiing
+- 🌱 I’m currently learning Angular and JavaScript 
