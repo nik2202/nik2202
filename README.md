@@ -1,5 +1,5 @@
-👋 Hi, I’m @niklashauschel
+👋 Hi,
 
-👀 I’m interested in soccer, biking, skiing and frontend development
+👀 I enjoy fitness, biking, skiing and frontend development.
 
 🌱 I’m currently learning Angular and JavaScript 
